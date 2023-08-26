@@ -15,7 +15,7 @@
              getHora();
              getAllVehiculos();
              getAllVehiculosF();
-
+             
              $('#btnGethora').click(function () {
                  getHora();
              });
